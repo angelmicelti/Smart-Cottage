@@ -3,3 +3,5 @@ En el curso 2022-2023, la cantidad de alumnos y alumnas era ideal para modificar
 
 
 ## Proyecto
+
+Más información en la wiki
